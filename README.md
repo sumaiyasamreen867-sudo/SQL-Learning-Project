@@ -52,11 +52,11 @@ The output generated from each SQL query has been exported as CSV files and is a
 
 | Query | Output |
 |--------|--------|
-| Query 1 | `results/01_top_paying_jobs.csv` |
-| Query 2 | `results/02_top_paying_job_skills.csv` |
-| Query 3 | `results/03_most_in_demand_skills.csv` |
-| Query 4 | `results/04_top_paying_skills.csv` |
-| Query 5 | `results/05_optimal_skills.csv` |
+| Query 1 | `Results/01_top_paying_jobs.csv` |
+| Query 2 | `Results/02_top_paying_job_skills.csv` |
+| Query 3 | `Results/03_most_in_demand_skills.csv` |
+| Query 4 | `Results/04_top_paying_skills.csv` |
+| Query 5 | `Results/05_optimal_skills.csv` |
 
 ---
 
