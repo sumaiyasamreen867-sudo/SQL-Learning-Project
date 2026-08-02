@@ -46,6 +46,20 @@ The project analyzes a real-world **Data Analyst Job Postings** dataset to answe
 
 ---
 
+## Query Results
+
+The output generated from each SQL query has been exported as CSV files and is available in the **results** folder.
+
+| Query | Output |
+|--------|--------|
+| Query 1 | `results/01_top_paying_jobs.csv` |
+| Query 2 | `results/02_top_paying_job_skills.csv` |
+| Query 3 | `results/03_most_in_demand_skills.csv` |
+| Query 4 | `results/04_top_paying_skills.csv` |
+| Query 5 | `results/05_optimal_skills.csv` |
+
+---
+
 ##  Key Insights
 
 ### Query 1 – Top-Paying Remote Data Analyst Jobs
